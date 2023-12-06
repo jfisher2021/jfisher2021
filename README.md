@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+![alt text](guaton-computadora.gif)
+
 <!--
 **jfisher2021/jfisher2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
