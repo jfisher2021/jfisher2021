@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-![alt text](guaton-computadora.gif) ![alt text](guaton-computadora.gif)
 <p align="center">
   <img src="guaton-computadora.gif" alt="Alternate text">
 </p>
