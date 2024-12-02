@@ -1,88 +1,97 @@
-# Hola, soy Jonathan Fisher 👋
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Estudiante de Ingeniería Robótica en la Universidad Rey Juan Carlos (URJC) | Futuro Ingeniero en Robótica 🤖 | Apasionado por la IA y la Robótica
-
-Soy un estudiante entusiasta de la robótica con un enfoque fuerte en la Robótica, Inteligencia Artificial, el aprendizaje automático y con interes en la ciberseguridad. A lo largo de mi carrera universitaria, he aprendido y aplicado una variedad de herramientas y tecnologías para abordar problemas complejos en el campo de la robótica.
-
-A continuación, te comparto algunas de las cosas que me apasionan y las tecnologías con las que me gusta trabajar.
-
----
-
-### 💻 Habilidades
-
-- **Lenguajes de Programación**: C, Python, C++, MATLAB
-- **Plataformas y Herramientas**: Arduino, Raspberry Pi, ROS2
-- **Frameworks y Bibliotecas**: PyTorch, TensorFlow, OpenCV (CV2)
-- **Tecnologías adicionales**:
-  - **Mecatrónica**
-  - **Visión por Computadora**: Experiencia con OpenCV para procesamiento y análisis de imágenes.
-  - **Ingeniería de Control de Sistemas**: Diseño y control de sistemas dinámicos.
-  - **Redes de Ordenadores**: Análisis y monitoreo con Wireshark, comunicación con MQTT.
-- **Proyectos relevantes**:
-  - Control de **robots autónomos**.
-  - Implementación de **redes neuronales** en TensorFlow y PyTorch.
-  - **Desarrollos en plataformas embebidas** (Arduino, Raspberry Pi).
-  - **Aplicaciones de Visión por Computadora** con OpenCV.
-  - **Análisis de redes** utilizando **Wireshark** y protocolos como **MQTT**.
-
----
-
-### 📊 Mis Estadísticas de GitHub
-
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfisher2021&show_icons=true&theme=radical)
-
----
-
-### 🌱 Actualmente Estoy Aprendiendo
-
-- Experimentando con **Robots**.
-- Profundizando en el desarrollo de **algoritmos de IA**.
-
----
-
-### 💬 ¿Quieres colaborar o discutir sobre robótica, IA, ciberseguridad o algún proyecto en específico?
-
-¡Estoy abierto a colaborar con otros entusiastas de la tecnología! Si tienes alguna idea o proyecto en mente, no dudes en contactarme.
-
----
-
-### 🛠️ Herramientas y Tecnologías que Uso
-
-#### GitHub
-¡Soy un usuario habitual de GitHub! Lo utilizo para gestionar mis proyectos, colaborar con otros desarrolladores y seguir los avances de mi trabajo.
-
-![GitHub](https://upload.wikimedia.org/wikipedia/commons/6/60/Logo_GitHub.png)
-
-#### Git
-Con Git gestiono versiones y realizo control de cambios en mis proyectos. Me siento cómodo con las operaciones básicas de Git y la gestión de ramas.
-
-![Git](https://upload.wikimedia.org/wikipedia/commons/a/a7/Git-Logo.svg)
-
-#### Visual Studio Code
-Uso Visual Studio Code como mi editor de código favorito debido a su versatilidad y las numerosas extensiones que ofrece, facilitando el trabajo con diferentes lenguajes y tecnologías.
-
-![VSCode](https://upload.wikimedia.org/wikipedia/commons/1/1d/Visual_Studio_Code_1.35_icon.svg)
-
-#### Linux
-Soy un usuario avanzado de **Linux**, lo utilizo para mis desarrollos, especialmente para trabajar con sistemas embebidos, programación en Python, C++ y herramientas de desarrollo de ROS2.
-
-![Linux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.png)
-
----
-
-### 📈 Tecnologías que Uso y Me Encantan
-
-![Tecnologías](https://skillicons.dev/icons?i=c,python,cpp,matlab,arduino,raspberrypi,py,tensorflow,ros,opencv,wireshark,mqtt)
-
----
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hola 👋, Soy Jonathan Fisher</h1></summary>
+  </ul>
+</div>
 
 
-### 📫 Conecta conmigo
+<!--Intro start-->
+- 🔭 Actualmente estoy estudiando con proyectos de **Robótica Autónoma, IA, y Ciberseguridad**.
 
-- **LinkedIn**: [Jonathan Fisher](https://www.linkedin.com/in/jonathan-fisher-a014121a4/)
+- 🌱 Estoy aprendiendo **más sobre robots humanoides y control avanzado de sistemas**.
 
----
+- 🤖 Apasionado por **Inteligencia Artificial**, **Redes Neuronales** y **Visión por Computadora**.
 
----
+- 💬 Pregúntame sobre **ROS2, Python, TensorFlow, PyTorch, C++, Visión por Computadora**.
 
-Gracias por tomarte el tiempo de visitar mi perfil. ¡Espero que podamos conectar pronto! 🚀
+- 📫 No dudes en contactarme a través de mi Linkedin.
+
+<!--Intro end-->
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=jfisher2021&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jfisher2021&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jfisher2021&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=jfisher2021&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tecnologías que Conozco👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,cpp,matlab,arduino,raspberrypi,tensorflow,ros,opencv,mqtt,linux,git,vscode&perline=14" />
+  </a>
+</p>
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Conéctemos 🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/jonathan-fisher-a014121a4/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+
+  
+</p>
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=jfisher2021&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------
