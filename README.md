@@ -48,8 +48,7 @@ A continuación, te comparto algunas de las cosas que me apasionan y las tecnolo
 
 ### 📫 Conecta conmigo
 
-- **LinkedIn**: [Jonny Fisher](https://www.linkedin.com/in/jonathan-fisher-a014121a4/)
-- **Correo**: [tu_correo@dominio.com](mailto:tu_correo@dominio.com)
+- **LinkedIn**: [Jonathan Fisher](https://www.linkedin.com/in/jonathan-fisher-a014121a4/)
 
 ---
 
