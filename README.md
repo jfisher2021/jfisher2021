@@ -4,21 +4,20 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, Soy Jonathan Fisher</h1></summary>
+    <summary><h1 style="display: inline-block">Hello 👋, I'm Jonathan Fisher</h1></summary>
   </ul>
 </div>
 
-
 <!--Intro start-->
-- 🔭 Actualmente estoy estudiando con proyectos de **Robótica Autónoma, IA, y Ciberseguridad**.
+- 🔭 I'm currently studying and working on projects related to **Autonomous Robotics, AI, and Cybersecurity**.
 
-- 🌱 Estoy aprendiendo **más sobre robots humanoides y control avanzado de sistemas**.
+- 🌱 I'm learning more about **humanoid robots and advanced systems control**.
 
-- 🤖 Apasionado por **Inteligencia Artificial**, **Redes Neuronales** y **Visión por Computadora**.
+- 🤖 Passionate about **Artificial Intelligence**, **Neural Networks**, and **Computer Vision**.
 
-- 💬 Pregúntame sobre **ROS2, Python, TensorFlow, PyTorch, C++, Visión por Computadora**.
+- 💬 Feel free to ask me about **ROS2, Python, TensorFlow, PyTorch, C++, and Computer Vision**.
 
-- 📫 No dudes en contactarme a través de mi Linkedin.
+- 📫 You can reach out to me via my **LinkedIn**.
 
 <!--Intro end-->
 
@@ -59,7 +58,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que Conozco👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies I Know 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -73,14 +72,13 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Conéctemos 🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Let's Connect 🤝</h2></summary>
   </ul>
 </div>
 
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/jonathan-fisher-a014121a4/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-
   
 </p>
 
