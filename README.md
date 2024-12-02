@@ -1,6 +1,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=100&color=F78C18&background=63CDFF00&center=true&vCenter=true&random=true&width=435&lines=Robotic+Engineer🤖👨‍💻)](https://git.io/typing-svg)
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
