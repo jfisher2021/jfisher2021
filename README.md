@@ -1,13 +1,18 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=100&color=F78C18&background=63CDFF00&center=true&vCenter=true&random=true&width=435&lines=Robotic+Engineer🤖👨‍💻)](https://git.io/typing-svg)
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello 👋, I'm Jonathan Fisher</h1></summary>
+    
   </ul>
 </div>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=100&color=C0F7DF&background=63CDFF00&center=true&vCenter=true&random=true&width=435&lines=Robotic+Engineer🤖👨‍💻" alt="Typing SVG" /></a>
+</p></p>
 
 <!--Intro start-->
 - 🔭 I'm currently studying and working on projects related to **Autonomous Robotics, AI, and Cybersecurity**.
