@@ -46,15 +46,42 @@ A continuación, te comparto algunas de las cosas que me apasionan y las tecnolo
 
 ---
 
-### 📫 Conecta conmigo
+### 🛠️ Herramientas y Tecnologías que Uso
 
-- **LinkedIn**: [Jonathan Fisher](https://www.linkedin.com/in/jonathan-fisher-a014121a4/)
+#### GitHub
+¡Soy un usuario habitual de GitHub! Lo utilizo para gestionar mis proyectos, colaborar con otros desarrolladores y seguir los avances de mi trabajo.
+
+![GitHub](https://upload.wikimedia.org/wikipedia/commons/6/60/Logo_GitHub.png)
+
+#### Git
+Con Git gestiono versiones y realizo control de cambios en mis proyectos. Me siento cómodo con las operaciones básicas de Git y la gestión de ramas.
+
+![Git](https://upload.wikimedia.org/wikipedia/commons/a/a7/Git-Logo.svg)
+
+#### Visual Studio Code
+Uso Visual Studio Code como mi editor de código favorito debido a su versatilidad y las numerosas extensiones que ofrece, facilitando el trabajo con diferentes lenguajes y tecnologías.
+
+![VSCode](https://upload.wikimedia.org/wikipedia/commons/1/1d/Visual_Studio_Code_1.35_icon.svg)
+
+#### Linux
+Soy un usuario avanzado de **Linux**, lo utilizo para mis desarrollos, especialmente para trabajar con sistemas embebidos, programación en Python, C++ y herramientas de desarrollo de ROS2.
+
+![Linux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.png)
 
 ---
 
 ### 📈 Tecnologías que Uso y Me Encantan
 
 ![Tecnologías](https://skillicons.dev/icons?i=c,python,cpp,matlab,arduino,raspberrypi,py,tensorflow,ros,opencv,wireshark,mqtt)
+
+---
+
+
+### 📫 Conecta conmigo
+
+- **LinkedIn**: [Jonathan Fisher](https://www.linkedin.com/in/jonathan-fisher-a014121a4/)
+
+---
 
 ---
 
