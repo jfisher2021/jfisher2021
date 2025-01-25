@@ -17,7 +17,7 @@
 <!--Intro start-->
 - 🔭 I'm currently studying and working on projects related to **Autonomous Robotics, AI, and Cybersecurity**.
 
-- 🌱 I'm learning more about **humanoid robots and advanced systems control**.
+- 🌱 I'm learning more about **LLM in robots and advanced navigation contro**.
 
 - 🤖 Passionate about **Artificial Intelligence**, **Neural Networks**, and **Computer Vision**.
 
@@ -86,7 +86,7 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/jonathan-fisher-a014121a4/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/jfisherr/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   
 </p>
 
